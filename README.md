@@ -1,4 +1,4 @@
-# Project name
+# Next.js 13 Supabase Tailwind Starter
 
 This is a starter template by Tino Ambrecht for using all Next.js 13 features in
 combination with a Supabase backend and Tailwind as styling
